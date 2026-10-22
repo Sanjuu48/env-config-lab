@@ -5,7 +5,7 @@ This repository is an assessment for debugging and fixing environment variable c
 
 The application currently fails to start correctly because one or more configuration issues exist. 
 Use logs and environment inspection to diagnose the problem.
-
+11111111111111111111111111111111111111111111111111111111111
 ## Setup Instructions
 
 1. Build the Docker image:
